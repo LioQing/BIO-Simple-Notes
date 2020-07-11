@@ -95,3 +95,16 @@ Uses:
     - antibodies
     - haemogoblin
 - Energy reserve
+
+## Nucleic acid
+Components:
+- 5-carbon sugar - pentose
+- Nitrogenous bases
+- Phophate/Phosphoric acid
+
+- DNA - double stranded
+- RNA - single stranded
+
+Uses:
+- The sequence of bases in DNA provides the genetic code
+- Complementary relationship of the bases in the DNA molecules allows it to replicate itself

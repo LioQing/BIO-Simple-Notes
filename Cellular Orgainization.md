@@ -51,3 +51,62 @@ Features:
 jelly-like substance  
 many chemical reactions occur  
 contains many organelles  
+
+## Enoplasmic Reticulum (ER)
+a network of membrane-bound tubes and sacs
+
+- Rough endoplasmic reticulum (RER)
+    - covered with ribosomes
+    - involved in the synthesis and transport of proteins
+- Smooth endoplasmic reticulum (SER)
+    - not covered with ribosomes
+    - involved in the synthesis, storage and transport of lipids
+
+## Mitochondrion
+Structure:
+- rod-shape structure
+- hollow structure bound by a double membrane
+    - outer membrane controls materials in and out of the organelle
+    - inner membrane folded inward to form cristae
+- central cavity are matrix that contains enzymes for Krebs cycle
+
+Uses:
+- for oxidative breakdown of food to release energy for the cell
+
+## Nucleus
+- Nuclear membrane
+    - double membrane for contol of substance in and out
+    - nuclear pores for transport of big molecules or particles
+- Genetic material
+    - netwrok of threads and granules - chromatin
+    - during cell division, chromatins condenses into rod-like structures - chromosomes
+    - Uses 
+        - genes on chromosomes contains genetic info
+        - chromosomes replicate to transmit the genetic info
+
+## Plant Cells
+Same as animal with extra organelles:
+- Cell wall
+- Chloroplasts
+- Much larger vacuole
+
+## Cell Wall
+Components:
+- mainly cellulose
+
+Features:
+- Fully permeable
+- Very rigid - provide shape and mechanical support
+
+</empty> | Cell membrane | Cell wall
+---|---|---
+Constituents | Phospholipids and proteins | Mainly cellulose
+Strength | Weak and elastic | Strong and rigid
+Permeability | Selectively permeable | Fully permeable
+Thickness | Very thin | Very thick
+Presesnt in | All living cells | In plant cells only
+
+## Chloroplasts
+- Double membrane
+    - outer membrane - control the passage of substances into and out
+    - inner membrane - extend inwards as thylakoid
