@@ -58,3 +58,40 @@ Use:
 
 ## Lipids
 CHO, H:O >> 2:1
+formed from fatty acids & glycerols
+
+Types:
+- Fats and oils
+    - fats from animal (saturated)
+    - oils from animal (unsaturated)
+- Phospholipids
+    - membrane of cells
+- Steroid
+    - Cholesterol
+
+Use:
+- Energy reserve
+- Insulation
+- Cell membranes
+- Protection
+- Water-proof
+- Production
+- Transport and storage
+
+## Proteins
+CHON
+formed by: polypeptide => dipeptide => amino acid
+
+Types:
+- Amino acid
+    - 20 essential amino acids
+    - 12 non-essential amino acids
+
+Uses: 
+- Growth and repair of cells
+- Specific function
+    - enzymes
+    - receptors
+    - antibodies
+    - haemogoblin
+- Energy reserve
