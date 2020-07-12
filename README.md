@@ -4,7 +4,7 @@
 ## Content
 - [Studying Biology](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Studying%20Biology.md)
 - [Molecules of Life](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Molecules%20of%20Life.md)
-- [Cellular Organization]
+- [Cellular Organization](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Cellular%20Orgainization.md)
 - [Movement of Substances Across Membrane]
 - [Cellular Energetics - Metabolism and Enzymes]
 - [Cellular Energetics - Photosynthesis]

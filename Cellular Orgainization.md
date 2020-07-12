@@ -146,3 +146,9 @@ Genetic material | Looped DNA lying free in cytoplasm | Coils of DNA enclosed by
 Organelles bounded by a double membrane | Absent | Present (Mitochonrion, chloroplasts, ER)
 Cell wall | Not made up of cellulose, maybe covered by capsule | In plant cells only, made up of cellulose
 Ribosomes | Slightly smaller, lying free in cytoplasm | Slightly larger, someattached to ER and some lying free in cytoplasm
+
+## Levels of Organization in Multicellular Organisms
+1. Cells
+2. Tissues
+3. Organs
+4. System
