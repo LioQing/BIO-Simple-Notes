@@ -98,6 +98,28 @@ Features:
 - Fully permeable
 - Very rigid - provide shape and mechanical support
 
+## Chloroplasts
+- Double membrane
+    - outer membrane - control the passage of substances into and out
+    - inner membrane - extend inwards as thylakoid
+- Thylakoid
+    - granal region
+    - intergranal region
+    - for holding chlorophyll and electron transport chain
+- Stroma
+    - for dark reaction
+
+## Vacuole
+- In animal
+    - small vacuoles
+- In plants
+    - large central vacuole
+    - full of water
+    - become turgid to support the plant
+    - water intake enlarge the cell during cell growth
+
+## Comparisons
+
 </empty> | Cell membrane | Cell wall
 ---|---|---
 Constituents | Phospholipids and proteins | Mainly cellulose
@@ -106,7 +128,21 @@ Permeability | Selectively permeable | Fully permeable
 Thickness | Very thin | Very thick
 Presesnt in | All living cells | In plant cells only
 
-## Chloroplasts
-- Double membrane
-    - outer membrane - control the passage of substances into and out
-    - inner membrane - extend inwards as thylakoid
+</empty> | Animal cell | Plant cell
+---|---|---
+Cell wall | Absent | Present
+Chloroplasts | Absent | Present
+Vacuoles | Small or absent | Large with cell sap, in the center position
+Food reserve | Mainly glycogen | Mainly starch
+Position of nucleus | At the center of the cell | Just beneath the cell wall
+Shape | Irregular | Fixed
+Size | Smaller | Bigger
+
+</emtpy> | Prokaryotic cells | Eukaryotic cells
+--- | --- | ---
+Size (diameter) | Usually smaller | Usually larger
+Nuclear membrane and nucleus | No nuclear membrane - No distinct nucleus | Has nuclear membrane - Has true nucleus
+Genetic material | Looped DNA lying free in cytoplasm | Coils of DNA enclosed by nucleus membrane
+Organelles bounded by a double membrane | Absent | Present (Mitochonrion, chloroplasts, ER)
+Cell wall | Not made up of cellulose, maybe covered by capsule | In plant cells only, made up of cellulose
+Ribosomes | Slightly smaller, lying free in cytoplasm | Slightly larger, someattached to ER and some lying free in cytoplasm
