@@ -70,3 +70,38 @@ Mechanism:
     1. The substance attached to the biding site of the carrier protein
     2. With the release of energy from ATP the carrier protein changes its shape
     3. The substance is then released into the cell
+
+Factors:
+- High temperature => high KE for enzymatic reactions
+- High concentration of oxygen => high rate of aerobic respiration
+- Factors that reduce the rate of respiration will slow or stop the active transport
+    - Shortage of oxygen
+    - Metabolic poison
+
+Importance:
+- Allow cells to take up nutrients when the concentration outside is low
+    - Villi of small intestine actively absorb nutrients
+    - Root hair actively absorb mineral salts
+    - Relative concentration of different ions in the cell sap of green alga are higher, because actively absorbed from surrounding pond water
+    - Kidney tubules actively reabsorb useful substances
+- Allow cells to get rid of unwanted substances
+
+## Phagocytosis
+is the process which the cell engulfs particles that are too big to pass into the cell by other means (aka cell-eating)
+
+Process:
+1. Cell membrane fold inwards to form a pit to enclose the particle, sealing off to form a vacuole
+2. The cytoplasm discharge enzymes into the vacuole to break down the particles, digesting products into surrounding cytoplasm
+
+Importance:
+- Body defence
+    - Phagoctyes can engulf harmful microorganisms
+- Feeding
+    - Unicellular organisms such as Amoeba can produce pseudopodia around a food particle to form a food vacuole
+
+## Daily Application of Diffusion and Osmosis
+- Food preservation
+    - Kill microoragnisms in food bu putting strong salf or sugar solution to remove water from food by osmosis
+- Kidney machine
+    - To help patients with removal of wastes from body by diffusion
+- Water purifier
