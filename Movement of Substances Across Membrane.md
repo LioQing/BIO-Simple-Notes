@@ -86,6 +86,13 @@ Importance:
     - Kidney tubules actively reabsorb useful substances
 - Allow cells to get rid of unwanted substances
 
+Diffusion | Active Transport
+--- | ---
+Energy is no required | Energy is required
+Move down a concentration gradient | Move against a concentration gradient
+Occur in both direction | Unidirectional
+No specific structure are needed in the membrane | Specific carrier proteins in the membrane
+
 ## Phagocytosis
 is the process which the cell engulfs particles that are too big to pass into the cell by other means (aka cell-eating)
 
