@@ -58,7 +58,7 @@ is the perioud between 2 successive cell divisions
     - active synthesis of proteins and organelles
     - replication of DNA
 
-## Mitotic Cell Division
+## Mitosis (Mitotic Cell Division)
 produces 2 daughter nuclei containing chromosome sets identical to the parent cell
 
 Stages:
@@ -75,3 +75,42 @@ Stages:
 4. Telophase
     - nuclear membrane is formed around each of the daughter chromosomes
     - producing 2 daughter nuclei
+
+Importance:
+- Growth
+- Repair or replacement
+    - flowering plant: root cap of root tip
+    - mammal: alimentary canal
+- Asexual reproduction
+    - binary fission
+    - vegetative propagation
+    - cloning
+
+## Meiosis (Meitic Cell Division)
+take place in gamete-producing cells  
+produces 4 haploid nuclei  
+aka reduction division
+
+Consist of 2 successive division:  
+First and second meiotic division
+
+Stages:
+1. Prophase I
+2. Metaphase I
+3. Anaphase I
+4. Telophase I
+5. Prophase II
+6. Metaphase II
+7. Anaphase II
+8. Telophase II
+
+## Cytoplasmic Division
+called cytokinesis
+
+In animal cells:  
+1. cell membrane constricts inwards around the middle of the cell
+2. cut the cell into 2 daughter cells
+
+In plant cell:
+1. a cell plate is formed between the 2 daughter nuclei
+2. the cell plate grows outwardds until it completely separate the cytoplasm
