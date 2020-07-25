@@ -91,18 +91,44 @@ take place in gamete-producing cells
 produces 4 haploid nuclei  
 aka reduction division
 
-Consist of 2 successive division:  
-First and second meiotic division
+General stages:
+1. First meiotic division
+2. Second meiotic division
+3. Cytoplasmic division
 
 Stages:
 1. Prophase I
+	- chromatin thicken and shorten, so chromosomes become visible
+	- members of each pair of homologous chromosomes pair up
+	- nuclear membrane break down
+	- exchange of genetic segments by crossing-over
 2. Metaphase I
+	- pairs of homologous chromosomes line up randomly in the middle of the cell
+	- the centromere attaches to the spindle fibre, sister chromatids do not split
 3. Anaphase I
+	- each members of each pair of the homologous chromosomes separate the pulled by spindle fibre towards the opposite poles of the cell
+	- cytoplasm begin to divide
 4. Telophase I
+	- when the chromosomes reached their respective ends, nuclear membrane forms to form 2 haploid daughter nuclei
 5. Prophase II
+	- nuclear membrane start to break down
 6. Metaphase II
+	- chromosomes line up in the middle of the cell
+	- centromere of each chromosomes attaches to new spindle fibres
 7. Anaphase II
+	- centromere split
+	- spindle fibres pull the sister chromatids apart and move them to the opposite poles
 8. Telophase II
+	- become chromatin
+	- nuclear membrane reforms around each daughter nucleic
+
+Examples:
+- Flowering plants
+	- anther produce haploid pollen grains
+	- ovule produces haploid egg cells
+- Mammals
+	- testis produces haploid sperms
+	- ovary produces haploid egg cells
 
 ## Cytoplasmic Division
 called cytokinesis
