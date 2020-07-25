@@ -15,13 +15,13 @@ When dividing, they are _2 identical sister chromatids_ joined with a _centromer
 - can be seen under a light microscope
 
 ### Homologous chromosomes
-Human has 46 chromosomes, 23 pairs of homologous chromosomes  
+Human has *__46__* chromosomes, *__23 pairs__* of homologous chromosomes  
 
-Chromosomes exists in pairs called _homologous chromosomes_:
+Chromosomes exists in pairs called *__homologous chromosomes__*:
 - the members:
     - are in similar size and shape
     - contain the same kinds of genes
-    - X and Y are sex chromosomes, but are not homologous
+    - X and Y are sex chromosomes, but are __*not homologous*__
     - one of each pair comes from male parent is called paternal chromosome
     - another member comes from female parent is called maternal chromosome
 - number of chromosome sets
@@ -129,6 +129,30 @@ Examples:
 - Mammals
 	- testis produces haploid sperms
 	- ovary produces haploid egg cells
+
+**_Promotion of Genetic Variations during Meiotic Cell Division_**
+- Crossing-over -- exchange of genetic segments between __*non-sister chromatids*__ at prophase I
+- Independent assortment -- random arrangement of different pairs of homologous chromosomes
+- Fusion of different gametes in fertilization is random
+
+## Comparison between Mitotic Cell Division and Meiotic Cell Division
+**_Similarities_**:
+- involve replication of DNA and the subsequent separation of chromosomes
+- involve the formation of spindle fibre to move the chromosomes apart to opposite poles
+
+__*Differences*__:
+</empty> | Mitotic cell division | Meiotic cell division
+--- | --- | ---
+Sites of occurance | Body cells | Gamete-producing cells in sex organs
+Pairing of homologous chromosomes | No | Yes
+Crossing-over | No | Yes
+Independent assortment | No | Yes
+Genetic make-up of daughter cells | Identical to parents and among daughter cells | Different from parents and among daughter cells
+Number of daughter cells produced | 2 | 4
+Type of cells produced | Body (somatic) cells | Gametes
+Number of chromosomes in daughter cells | Same as parents (diploid)(2N) | Half of parents (haploid)(N)
+Importance | Growth, repair, asexual reproduction | sexual reproduction that preserve the number of chromosomes, produces genetic variation to enhance survival of the species
+
 
 ## Cytoplasmic Division
 called cytokinesis
