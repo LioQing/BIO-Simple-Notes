@@ -66,7 +66,7 @@ Stages:
     - chromatin thicken and shorten, so chromosomes become visible
     - nuclear membrane break down
 2. Metaphase  
-    - chromosomes line up0 individually in the middle of the cell
+    - chromosomes line up individually in the middle of the cell
     - the paried sister chromatids attached to the spindle fibre by the centromere
 3. Anaphase
     - centromere split
