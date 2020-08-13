@@ -45,3 +45,33 @@ process:
 - Archaeological study
 - Human Genome Porject
 - Diagnosis for infectious diseases
+
+## DNA Fingerprinting
+
+Principle: 
+- Variable Number Tandem Repeats (VNTR)
+	- non-functional (non-coding) DNA
+	- a short base sequence to repeat in linear manner, called tandem repeat
+	- each sequence contains about 10 - 100 base pairs
+	- repeating sequence normally is the same from person to person
+	- number of times they repeat are different between individuals
+	- length of repeat is inherited as an allele
+
+### Restriction Fragment Length Prolymorphism (RFLP) Analysis
+1. Extracting DNA
+2. Preparing restriction DNA fragments
+3. Separating DNA fragments by gel electrophoresis
+	- with electric field, shorter DNA move further away from well
+	- different size DNA fragments are separated into different bands
+4. Blotting
+	- using nylon membrane
+5. DNA Hybridization
+	- radioactive DNA probes
+
+Application:
+- Forensic science
+- Parentage test
+- Victims identification
+- Evolution and archaeological studies
+- Detection of genetic disorders
+- Test for GM food
