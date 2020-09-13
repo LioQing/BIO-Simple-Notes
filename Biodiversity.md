@@ -67,7 +67,53 @@ E.g. Yeast, Bread moulds, Mushrooms
 - Invertebrates
 - Vertebrates
 	- Fish
+		- Wet and slimy scales
+		- Fin
+		- Gills
+	- Amphibians
+		- Moist naked skin
+		- Gills in larvae; lungs in adult
+		- Four limbs
+	- Reptiles
+		- Dry, hard scales
+		- Lungs
+		- Four limbs
+	- Birds
+		- Feathers
+		- Wings
+		- Lungs
+		- Beaks
+		- Dry scales on legs
+	- Mammals
+		- Hair
+		- Lungs
+		- Four limbs
+		- Mammary glands
+
+Fertilization:
+- External
+	- Fish
+	- Amphibians
+- Internal
+	- Reptiles
+	- Birds
+	- Mammals
+
+Embryos development:
+- Outside mother's body, in water
+	- Fish
+	- Amphibians
+- Outside mother's body, on land (mostly hard shelled eggs)
+	- Reptiles
+	- Birds
+- Inside mother's body
+	- Mammals
+
+Control of body temperature:
+- Poikilotherms (cold-blooded)
+	- Fish
 	- Amphibians
 	- Reptiles
+- Homotherms (warm-blooded)
 	- Birds
 	- Mammals

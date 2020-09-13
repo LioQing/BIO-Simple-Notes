@@ -11,4 +11,5 @@
 - [Cellular Energetics - Photosynthesis]
 - [Cellular Energetics - Respiration]
 - [Biotechnology]
-- [Biodiversity]
+- [Biodiversity](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Biodiversity.md)
+- [Basic Genetics](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Basic%20Genetics.md)
