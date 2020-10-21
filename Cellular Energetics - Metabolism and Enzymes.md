@@ -35,6 +35,21 @@ Act as a biological catalysts to lower the activation energy and speed up the re
 - pH
 	- Optimum pH - maximum rate
 	- Depends on the type of enzyme
-- Inhabitors
+- Inhibitors
 	- Competitive inhabitors - occupy active site
 	- Non-competitive inhabitors - change shape of active site
+	- Use
+		- Insecticides
+		- sulphonamide and antibiotics
+		- Penicillin
+
+### Application
+- Bioactive washing powder
+	- Proteases
+	- Lipases
+	- Cellulase
+- Contact lens cleaning agent
+	- Proteases
+- Meat tenderizing
+- Fruit juice
+- Stone-washed jeans

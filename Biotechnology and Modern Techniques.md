@@ -1,3 +1,7 @@
+## Human Genome Project (HGP)
+Genome definition: the ***complete DNA sequence*** on a haploid set of chromosome
+Mapping definition: the ***identification and locating*** of genetic sequences
+
 ## Recombinant DNA Technology  
 is the process of isolating a DNA fragment from a donor cell and inserting it into the DNA of another cell  
 
