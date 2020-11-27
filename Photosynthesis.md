@@ -53,3 +53,65 @@ ADP + P ===energy===> ATP
 ## Calvin Cycle  
 
 <img src="https://cdn.kastatic.org/googleusercontent/iuaCnFSly-lhqgI84je2RRUZZDuZGBjVSw-ptxjHmqH53bG0oIus08dfGHJWCShNbn5ZwReBSsvCazRtnBB62X8" height="300">
+
+from: https://www.khanacademy.org/science/ap-biology/cellular-energetics/photosynthesis/a/calvin-cycle
+
+1\. **Carbon Fixation**  
+1. **CO2** **combines** with a **5-C compound** (a CO2 acceptor) to fix the CO2
+2. this results in a **6-C compound** (unstable) which immediately splits into **2 3-C compounds** (stable)
+
+2\. **Reduction to Triose Phosphate**
+1. **3-C compound** is **reduced by NADPH to triose phosphate** with energy provided by **ATP** (from photochemcial reactions)
+2. the **ADP and NADP** formed will be **reused** in photochemical reactions
+
+3\. **Regeneration of CO2 acceptor (5-C compound)**
+1. majority of **triose phosphate** are **regenerated to CO2 acceptor** with energy provided by **ATP**
+2. the **continuouse supply of CO2 acceptor** for carbon fixation ensures the **cyclic process**
+
+## Conversion of Triose Phosphate into other Biomolecules
+
+- carbohydrates
+	- **glucose** - easily oxidized to **release energy**
+	- **sucrose** - **soluble and inactive** for **transport**
+	- **starch** - **large and insoluble** for **reserve**
+	- **cellulose** - for main **structureal material** of cell wall
+- lipids
+	- **fatty acids** - **intermediate formed in glycolysis** when 1 3-C compund entering glycolysis of respiration
+	- **glycerol** - from triose phosphate
+	- BOTH are for **forming cell membrane and energy reserve**
+- proteins
+	- **amino acids** - formed when 1 C-3 compound entering Krebs cycle from Calvin cycle **combines with minerals**
+	- **proteins** - formed by joining amino acids
+	- for forming **cell membrane, enzymes, repair and growth**
+
+## Environmental Factors
+
+**Concept: Limiting Factor**  
+when change of a factor is supposed to increase the photosynthetic rate  
+but the photosynthetic rate **leveled off**  
+**other factor(s) becomes the limiting factor**  
+limiting the photosynthetic rate regardless of the change of this factor
+
+**Light Intensity**
+
+<img src="https://images.topperlearning.com/topper/question_uploads/CBSE_Bio11_FactorsAffectingPhotosyn_SAQ_CLA_files/20140724095547_image002.jpg" height="300">
+
+
+from: https://www.topperlearning.com/answer/draw-a-standard-graph-for-light-intensity-versus-the-rate-of-photosynthesis/dxvw68f33
+
+E: **Saturation point**  
+D: **Optimum light intensity**  
+
+**Carbon Dioxide Concentration**  
+graph similar to the light intensity-rate of photosynthesis graph with  
+D: **Optimum CO2 concentration**
+
+**Water**  
+water affect the metabolic activities of cells  
+
+**Temperature**  
+<img src="https://fhs-bio-wiki.pbworks.com/f/optimum%20temperature%20affecting%20photosynthesis.jpg" height="300">
+
+from: http://fhs-bio-wiki.pbworks.com/w/page/12145771/Factors%20effecting%20the%20rate%20of%20photosynthesis
+
+highest point: **Optimum temperature**
