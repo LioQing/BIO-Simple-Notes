@@ -19,42 +19,61 @@ Organisms of the same species can reproduce fetile offspring.
 scientific name = genus name + species name  
 genus name: first letter CAPITAL letter  
 species name: small letters  
-Must be __underlined__ or __italics__  
-Example: Human = Homo sapien
+Must be __underlined__ or _italics_  
+Example: Human = _Homo sapien_
 
 ## Six Kingdoms and Three Domains
 <empty/> | Prokaryotes | Prokaryotes | Eukaryotes | Eukaryotes | Eukaryotes | Eukaryotes
-- | - | - | - | - | - | - |
+| - | - | - | - | - | - | - |
 Domains | Bacteria | Archaea | Eukarya | Eukarya | Eukarya | Eukarya
 Kindom | Eubacteria | Archaebacteria | Protista | Fungi | Plantae | Animalia
+Cell wall | Yes (peptidoglycan) | Yes (mostly) (unique compo.) | Algae: Yes, Protozoa: No | Yes (no cellulose) | Yes | No
+True nucleus | No (circular ring of DNA) | No (circular ring of DNA) | Yes | Yes | Yes | Yes
+Chlorophyll | Yes (cynobacteria) or No | Yes or No | Algae: Yes, Protozoa: No | No | Yes | No
+Reproduction | Binary fission | Binary fission, Multiple Fission | Gametes, Binary, Multiple fission | Spores | Asexual & Sexual repro. | Sexual repro.
 
 **Eubacteria**  
-refers to bacteria
+refers to bacteria  
 Structures:
 - Capsule (optional) - the outermost layer
 - Cell wall (made of peptidoglycan)
 - Cell membrane
 - Cytoplasm
 - Circular ring of DNA
-- Flagellum
+- Flagellum (some)  
+
+Special Characteristics:
+- Unicellular
 
 **Archaebacteria**   
-Live in extreme environments  
 Shapes:
 - Rod-shaped
 - Shperical-shaped
-- Sprial-shaped
+- Sprial-shaped  
+
+Special Characterisitcs:  
+- Many located in extreme environment
+- Unicellular  
 
 **Protista**  
 refers to protists  
 E.g. Amoeba, Algae, Paramecium  
-Mainly live in water
+
+Special Characteristics:
+- Many live in water
+- Some plant-like, some animal-like
+- Unicellular
 
 **Fungi**  
-Most made up of hyphae  
-E.g. Yeast, Bread moulds, Mushrooms
+E.g. Yeast, Bread moulds, Mushrooms  
+
+Special Characteristics:
+- Most made of hyphae
+- Sprophytic or Parasitic
+- Multi-cellular
 
 **Plantae**  
+Special Characteristics:  
 - Non-vascular plants (e.g. mosses)
 - Vascular plants
 	- Ferns
@@ -63,7 +82,9 @@ E.g. Yeast, Bread moulds, Mushrooms
 		- Monocots (monocotyledonous plants)
 		- Dicots (dicotyledonous plants)
 
-**Animalia**
+**Animalia**  
+Special Characteristics:
+- Most can move from place to place
 - Invertebrates
 - Vertebrates
 	- Fish
