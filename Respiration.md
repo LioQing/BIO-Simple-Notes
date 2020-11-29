@@ -112,3 +112,14 @@ stages:
 - lactic acid in blood
 - **muscles fatigue** by accumulation of lactic acid
 - **oxygen debt**, extra amount of oxygen needed for removal of lactic acid
+
+## Comparison of Anaerobic and Aerobic Respiration
+</empty> | aerobic respiration | anaerobic respiration
+--- | --- | ---
+demand of oxygen | needed | not needed
+final hydrogen acceptor | oxygen | pyruvate or ethanal
+oxidation of sugar | complete breakdown | incomplete breakdown
+end products | CO2 and water | plants: CO2 and ethanan, Animals: lactic acid / lactate
+energy released per glucose molecule | large amount (38 ATP) | smaller amount (2 ATP)
+occurance in organisms | in most living organisms | in microorganisms, some plant organs, and skeletal muscles
+occurance in cells | cytoplasm (glycolysis) & mitochondria (Krebs cycle & oxydative phosphorylation) | cytoplasm only
