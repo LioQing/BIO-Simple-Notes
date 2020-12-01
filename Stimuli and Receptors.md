@@ -120,6 +120,6 @@ key: ([ near ]/[ distant ])
 
 ## Ear  
 
-<img src="https://github.com/LioQing/BIO-Simple-Notes/blob/master/images/stimuli%20and%20receptors%20-%20ear.png.png">  
+<img src="https://github.com/LioQing/BIO-Simple-Notes/blob/master/images/stimuli%20and%20receptors%20-%20ear.png">  
 
 image from: me (beautiful isn't it?)
