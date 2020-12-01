@@ -167,3 +167,65 @@ image from: me (beautiful isn't it?)
 	6. the hairs of sensory hair cells in the central canal bent by the vibrations, they are stimulated and send out electrical signal
 	7. nerve impulses travel along the auditory nerve to the auditory centre to produce sensation of hearing
 	8. vibrations in perilymph are transmitted to round window, and it bulges outwards into the middle ear to release the fluid pressure
+
+## Tropism
+def: the directional growth movement of a plant organ in response to a unilateral stimulus
+
+types:  
+</empty> | stimulus | response of root | response of shoot
+--- | --- | --- | ---
+hydrotropism | water | + | nil
+geotropism | gravity | + | -
+phototropism | light | nil/- | +
+</br>
+
+**phototropism**  
+def: the directional growth movement of a plant organ in response to unlateral light  
+
+response
+- youngs hoots and leaves grow towards the unilateral light - positive phototropic
+	- enables leaves to obtain the maximum amount of light for photosynthesis
+- some roots grow away from the light source - negatively phototrophic
+	- enables roots to grow deep underground to obtain max amount of water and minerals
+	- enables plant to get better anchorage
+
+**auxins**  
+properties:  
+- the most common plant growth hormone
+- regulates growth and other physiological functions
+- actions are non-specific - acts on most part of the plant
+- produced in small amount of growing shoots and roots
+- move from the tips to the region of elongation
+- move away from light
+
+graph of growht-IAA conc. for shoots and roots
+<img src="https://lh3.googleusercontent.com/proxy/DiMI6csNiwQo3yOTQAQxCpUFGov-xqsR4n-Y8-GLlPDvbbMR4ihXY9DR9M30tnI0ZwpTEsKke9Wi2p0Wur0xvYgEfw0_">
+
+image from: http://lungtp.com/plantsupport/e_ehefeb.html
+
+comparison of the curves:
+- similarities
+	- conc. of auxins increase -> roots and shoots increases growth until maximum
+	- once conc. exceed max -> growth slow down
+- differences
+	- conc. causes the greates growth on shoots, inhibits growth on roots
+	- conc. that stimulates maximum root growth has no effect on shoots/stems
+
+stimulates:  
+- optimum conc. of auxin
+	- root has a very low optimum conc.
+	- shoot has a very high optimum conc.
+- too concentrated retard the growth
+
+**mechanism**  
+1. auxins are produced at the tips of shoots/roots
+2. auxins move away from light
+3. higher conc. is found on the shaded side of shoot
+- on shoots
+	4. higher conc. stimulates growth on shaded side
+	5. shaded side grow faster
+	6. bend towards light
+- on roots
+	4. higher conc. inhibits growth on shaded side of root
+	5. shaded side grow slower
+	6. bends away from light
