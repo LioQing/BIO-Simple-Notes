@@ -14,4 +14,4 @@
 - [Biodiversity](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Biodiversity.md)
 - [Evolution](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Evolution.md)
 - [Basic Genetics](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Basic%20Genetics.md)  
-- [Simuli and Receptors](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Stimuli%20and%20Receptors.md)
+- [Stimuli and Receptors](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Stimuli%20and%20Receptors.md)
