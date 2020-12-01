@@ -117,3 +117,9 @@ key: ([ near ]/[ distant ])
 		- uneven curvature of cornear or lens
 	- effect:
 		- vision is blurred
+
+## Ear  
+
+<img src="https://github.com/LioQing/BIO-Simple-Notes/blob/master/images/stimuli%20and%20receptors%20-%20ear.png.png">  
+
+image from: me (beautiful isn't it?)
