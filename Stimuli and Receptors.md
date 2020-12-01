@@ -123,3 +123,47 @@ key: ([ near ]/[ distant ])
 <img src="https://github.com/LioQing/BIO-Simple-Notes/blob/master/images/stimuli%20and%20receptors%20-%20ear.png">  
 
 image from: me (beautiful isn't it?)
+
+**structures**:  
+- pinna
+	- a flap of elastic cartilage
+	- collect sound waves and direct them along the auditory canal
+	- helps detect direction of sound
+- auditory canal
+	- direct sound waves to the eardrum
+- eardrum
+	- thin and elastic membrane
+	- convert sound waves into mechanical vibration
+- ear bones
+	- amplify and transmit the vibration from eardrum to the oval window
+- oval window
+	- flexible membrane
+	- transmits the vibration to the inner ear
+-  round window
+	- membrane below the oval window
+	- releases the fluid pressure in the cochlea to air in middle ear
+- Eustachian tube
+	- connects to the pharynx
+	- balances the pressure between the middle ear and the atmosphere
+- auditory nerve
+	- transmits nerve impulses from cochlea and semicircular canals to the brain
+- semicircular canals
+	- detect direction of head movement for keeping body balance
+- cochlea
+	- coiled tube with 3 canals separated by membranes
+	- upper and lower canals filled with perilymph
+	- central canl filled with endolymph
+	- contains sensory hair cells to detect pressure changes
+
+**mechanism of hearing**:  
+- outer ear
+	1. pinna collects sound waves and auditory canal directs the waves to the eardrum
+	2. sound waves cause eardrum to vibrate
+- middle ear
+	3. ear bones amplify and transmit the vibration from eardrum to the oval window
+- inner ear
+	4. oval window vibrates, making the perilymph in the upper canal of cochlea to vibrate
+	5. vibrations in the perilymph are transmitted to the endolymph of the central canal
+	6. the hairs of sensory hair cells in the central canal bent by the vibrations, they are stimulated and send out electrical signal
+	7. nerve impulses travel along the auditory nerve to the auditory centre to produce sensation of hearing
+	8. vibrations in perilymph are transmitted to round window, and it bulges outwards into the middle ear to release the fluid pressure
