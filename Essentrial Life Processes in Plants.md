@@ -67,6 +67,17 @@ Xylem and Phloem
 	- companion cells
 		- help sieve tubes to transport food
 
+xylem | phloem
+--- | ---
+each xylem is a hollow long vessel | each phloem = 1 sieve tube + 1 companion cell
+walls are thickened with lignin | walls are thin
+dead cells | living cells
+larger diameter | smaller diameter
+hollow without cytoplasm and nucleus | lumens of cells with cytoplasm
+end walls of adj. vessels cells break down | end walls of adj. sieve tubes form sieve plate with pores
+only transports water and mineral salts | transports sucrose
+direction of transport upwards | bidirectional transport: upwards and downwards to fruits and underground storage organs
+
 ## Absorption of Water in Root
 1. water from soil into root hair
 	- water potential ψ root hairs < ψ soil
@@ -142,4 +153,3 @@ precaution:
 - let plant to equilibrate -> adapt to the env.
 - make buble small -> too long will split into 2
 - thin layer of oil on water surface -> no evaporation
-- 
