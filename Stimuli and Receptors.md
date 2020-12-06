@@ -198,8 +198,8 @@ properties:
 - move from the tips to the region of elongation
 - move away from light
 
-graph of growht-IAA conc. for shoots and roots
-<img src="https://lh3.googleusercontent.com/proxy/DiMI6csNiwQo3yOTQAQxCpUFGov-xqsR4n-Y8-GLlPDvbbMR4ihXY9DR9M30tnI0ZwpTEsKke9Wi2p0Wur0xvYgEfw0_">
+graph of growht-IAA conc. for shoots and roots  
+<img src="http://lungtp.com/plantsupport/auxinlevel.jpg">
 
 image from: http://lungtp.com/plantsupport/e_ehefeb.html
 
