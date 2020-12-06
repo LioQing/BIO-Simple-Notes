@@ -102,7 +102,7 @@ key: ([ under cold conditions ]/[ under hot conditions ])
 
 - under cold conditions
 	- skeletal muscles contract rapidly and repeatedly - **shivering**
-	- hormonal action - secretion of **thyroxine from thyroid glands** increases **metabolic rate** of body cells
+	- hormonal action - secretion of **thyroxine from thyroid glands** increases **metabolic rate** of body cells (long term)
 
 ***behavioral machanisms***  
 
