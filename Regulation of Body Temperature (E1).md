@@ -58,3 +58,74 @@ structure
 - subcutaneous fat
 	- insulating, to reduce heat loss
 	- stores fat as food reserve
+
+functions | means/structures | actions
+--- | --- | ---
+protection | barrier | avoid mechanical injury; prevent bacterial infection; reduce water loss; absorb harmful ultraviolet ray; shield tips of limbs by nails
+temperature regulation | lose heat | increase sweating; increase blood flow into skin by vasodilation; trap less air by relaxing the erector muscles
+temperature reguation | gain heat | reduce sweating; reduce blood flow into skin by vasoconstriction; trap more air by contacting the erector muscles; reduce heat loss by thick layer of subcutaneous fat
+excretion | sweating | remove salts and urea
+storage | subcutaneouse fat | store fat
+perception | sensory receptors | receive stimuli from surroundings
+synthesis | pigments in epidermis | produce vitamin D from sunlight  
+<br>
+
+## Mechanisms of Regulating Body Temperature
+key: ([ under cold conditions ]/[ under hot conditions ])
+
+***physiological mechanisms***
+
+**erector muscles and hair**  
+1. erector muscles (contract/relax)
+2. hairs (are pulled upright/lie flat)
+3. traps (thicker/thinner) layer of air
+4. air is a good insulator, it (reduces/promotes) heat loss by conduction, convection, radiation
+
+**vasodilation/vasoconstriction**  
+1. arterioles in the skin (constrict/dilate)
+2. (less/more) blood flow to the capillaries near the skin surface
+3. (less/more) heat loss from blood to the surroundings through conduction, convection, radiation
+
+**sweating (promotes heat loss)**
+1. sweat glands secret more sweat
+2. evaporation of sweat cools the skin
+3. more heat lost to produce the cooling effect
+
+***structural mechanism***  
+
+**thicker/thinner subcutaneous fat (long term)**
+1. subcutaneous fat is good insulator of heat
+2. (thickening/thinner) subcutaneous fat (promotes/reduces) insulating effect
+3. (less/more) heat is lost
+
+***other mechanisms***  
+
+- under cold conditions
+	- skeletal muscles contract rapidly and repeatedly - **shivering**
+	- hormonal action - secretion of **thyroxine from thyroid glands** increases **metabolic rate** of body cells
+
+***behavioral machanisms***  
+
+under cold conditions | under hot conditions
+--- | ---
+put on more clothes | put on less clothes
+curl the body to reduce S.A. exposing to cold air | go to shady place to reduce exposure to sunlight
+turn on heaters to gain by radiation and convection | fan or air-conditioner to increase evaporation of sweat and by convection and radiation
+take in more warm food and drinks | take in more cold food and drinks
+do more exercises to produce heat |  
+
+## Thermoregulatory Centre in the Hypothalamus
+- have thermoreceptors to detect blood temperature
+- receive nerve impulses from thermoreceptors in the skin to detect durrounding temperature
+- heat gain centre
+- heat loss centre  
+
+## Heat Related Illness
+- heat stroke
+	- when body temperature is 41°C or higher for 10 to 15 mins
+	- can cause death or permanent disability
+	- occurs when sweating mechanism fails and body is unable to cool down
+- hypothermia
+	- when body temperature is below 35°C
+	- can affects brain, make victim unable to think clearly or move well
+	- when more heat is lost than the body can generate
