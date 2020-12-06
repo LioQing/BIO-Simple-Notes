@@ -17,3 +17,4 @@
 - [Stimuli and Receptors](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Stimuli%20and%20Receptors.md)
 - [Essential Life processes in Plants](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Essentrial%20Life%20Processes%20in%20Plants.md)
 - [Regulation of Water Content (E1)](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Regulation%20of%20Water%20Content%20(E1).md)
+- [Regulation of Body Temperature (E1)](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Regulation%20of%20Body%20Temperature%20(E1).md)
