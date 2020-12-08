@@ -60,6 +60,6 @@ process to initiate a heart beat
 
 **cardiac output**  
 - stoke volume
-- hear rate
+- heart rate
 
 cardiac output (mL/min) = stoke volume (mL/beat) * heart rate (beats/min)
