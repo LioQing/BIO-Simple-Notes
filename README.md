@@ -19,3 +19,4 @@
 - [Regulation of Water Content (E1)](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Regulation%20of%20Water%20Content%20(E1).md)
 - [Regulation of Body Temperature (E1)](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Regulation%20of%20Body%20Temperature%20(E1).md)
 - [Regulation of Gas Content in Blood (E1)](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Regulation%20of%20Gas%20Content%20in%20Blood%20(E1).md)
+- [Hormonal Control of Reproduction Cycle (E1)](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Hormonal%20Control%20of%20Reproduction%20Cycle%20(E1).md)
