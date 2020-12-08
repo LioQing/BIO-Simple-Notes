@@ -63,3 +63,41 @@ process to initiate a heart beat
 - heart rate
 
 cardiac output (mL/min) = stoke volume (mL/beat) * heart rate (beats/min)
+
+**hormonal control**  
+1. CO2 conc. in blood rises
+2. blood pressure and pH rises
+3. **cardio-acceleratory centre** send nerve impulses along **sympathetic nerve** to adrenal glands
+4. adrenal glands secrete more adrenaline
+5. adrenaline stimulate cardiac muscles to increase the cardiac output by beating faster and stronger  
+
+**nervous control**  
+key: ([ CO2 conc. drops ]/[ CO2 conc. rise ])
+1. blood CO2 conc. (drops/rises)
+2. blood pH and pressure changed
+	- blood pH (rises/drops)
+	- blood pressure (rises/drops)
+3. receptors are stimualated
+	- chemoreceptors in the carotid bodies and aortic bodies stimulated by (high/low) pH
+	- stretch receptors in the aorta and carotid arteries are stimulated by (high/low) blood pressure
+4. (**cardio-inhibitory centre/cardio-acceleratory centre**) receive impulses from receptors
+5. nerve impulses are sent along (**parasympathetic/sympathetic**) nerves to SA node to increase the heart rate & stroke volume
+6. (decreases/increases) CO2 delivered to the lungs for removal & blood pressure  
+
+## Oxygen Debt  
+production of extra energy within a **short period of time** by **anaerobic respiration**  
+causes: lack of oxygen  
+produces: lactic acid  
+process: **lactic acid fermentation**  
+
+to repay the oxygen debt  
+work: breath rapidly  
+effects: more oxygen is intake for almost 50 mins  
+
+lactic acid accumulation  
+effects: tired, pain, convulsion in muscle - **muscle fatigue**  
+
+recommended activity after vigorous exercise - **slow jogging**
+- running increases rate of breathing and heartbeat
+- increase the amount of oxygen taken into the lungs
+- increases the blood flow to deliver more oxygen to liver
