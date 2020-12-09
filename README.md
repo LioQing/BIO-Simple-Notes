@@ -10,6 +10,7 @@
 - [Metabolism and Enzymes](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Metabolism%20and%20Enzymes.md)
 - [Photosynthesis](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Photosynthesis.md)
 - [Respiration](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Respiration.md)
+- [Gas Exchange in Humans](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Gas%20Exchange%20in%20Humans.md)
 - [Homeostasis](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Homeostasis.md)
 - [Reproduction in Humans](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Reproduction%20in%20Humans.md)
 - [Biotechnology](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Biotechnology%20and%20Modern%20Techniques.md)
