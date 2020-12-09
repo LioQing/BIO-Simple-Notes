@@ -175,3 +175,69 @@ advantages:
 4. the network of fibrin traps blood cells to form a clot
 5. after fibrinogen is removed, serum is remained
 	
+## Exchange of Materials at the Capillaries Network
+**tissue fluid**  
+function:  
+- serve as medium for the exchange of materials between blood & body cells
+- provide a relatively stable env. for the functioning of body cells
+
+formation:  
+1. at arteriole end of capillary, high blood pressure forces plasma to pass through the wall
+2. RBC, blood platelets, and plasma proteins are too big to pass through the wall
+3. most water passes back to veneous end of capillaries by osmosis
+3. WBC can squeeze through capillary wall by amoeboid movement
+
+composition:  
+- similar as plasma except no blood & plasma protein
+
+**capillaries**  
+function:
+- smallest blood vessels
+- reach every part of body
+
+adaptation:
+- greatly branched => increase S.A. for exchange of materials
+- capillary wall is thin (one-cell thick) provide short distance to faciliate material exchange
+- large total cross-sectional area => blood flow slow => sufficient and longer time for exchange
+
+## Lymphatic System
+
+function:  
+- assist the circulatory system to transport substances
+- return excess tissue fluid to blood stream
+- transport absorbed lipids from lacteals of the intestine to heart
+- lymph nodes filter out pathogens and kills them
+- produce WBC
+- keeps the cells in condition for diffusion between capillaries & tissue cells
+
+**lymph**  
+formation:  
+- tissue fluid drained into lymph capillaries are lymph
+
+composition:  
+- no RBC, blood platelet
+- resembles plasma except no protein
+- lymph nodes produce WBC, hence lymph has WBC
+
+**lymph nodes**  
+structure:  
+- swellings present along the lymph vessels
+- prodce large number of WBC
+- filters lymph before going to the subclavian veins
+- bacteria & toxins in the lymph are destroyed by WBC in lymph nodes
+
+**lymph vessels**  
+structure:  
+- no pump
+- vavles to prevent backflow of lymph
+- path: lymph capillaries -> lymph vessels -> subclavian veins -> superior vena cava -> heart
+- lies between tissue cells
+
+</empty> | lymph vessel | capillary
+--- | --- | ---
+ending | blind-end | open end
+valves | yes | no
+plasma protein | less | more
+RBC | no | yes
+WBC | yes | yes
+blood platelet | no | yes
