@@ -91,7 +91,7 @@ produces: lactic acid
 process: **lactic acid fermentation**  
 
 to repay the oxygen debt  
-work: breath rapidly  
+work: breathe rapidly  
 effects: more oxygen is intake for almost 50 mins  
 
 lactic acid accumulation  
