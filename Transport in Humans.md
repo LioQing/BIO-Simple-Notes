@@ -74,7 +74,7 @@ site of destruction | liver & spleen (haemoglobin to iron * bile pigment) | kill
 	- phagocytes
 		- engulf & digest the pathogens
 	- lymphocytes
-		- produce antibodies to kill the pathogens
+		- produce antibodies to kill the pathogens by lysis
 		- antibodies to clump pathogens together for phagocyte to engulf
 		- neutralize toxins from pathogens
 	- blood platelets
