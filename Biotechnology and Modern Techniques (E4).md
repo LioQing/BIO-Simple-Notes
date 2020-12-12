@@ -1,5 +1,5 @@
 ## Human Genome Project (HGP)
-Genome definition: the ***complete DNA sequence*** on a haploid set of chromosome
+Genome definition: the ***complete DNA sequence*** on a haploid set of chromosome  
 Mapping definition: the ***identification and locating*** of genetic sequences
 
 ## Recombinant DNA Technology  
@@ -11,7 +11,7 @@ Process:
 3. Isolate a plasmid with the antibiotic resistance gene as selectable marker from a bacterial cell
 4. Add the same ***restriction enzyme*** to ***cut open the circular plasmid***
 5. The 'sticky ends' of the gene of interest and the open plasmid are ***complementary***, they join together by adding the enzyme ***DNA ligase*** to form a ***recombinant plasmid***
-6. Plasmid acts as the ***vector*** to instroduce the recominant DNA into a host cell, forming a recombinant bacterium, they are said to be transformed
+6. Plasmid acts as the ***vector*** to introduce the recominant DNA into a host cell, forming a recombinant bacterium, they are said to be transformed
 7. The transformed bacteria are ***selected*** by spreadig the bacteria on sterile nutrient agar plate that contains antibiotic
 8. The transformed bacteria are removed to culture in large scale in the sterile nutrient solution of a fermenter
 
@@ -30,7 +30,7 @@ process:
 	- The anealling of these 2 primers ***marks the selected DNA region to be amplified***
 	- The temperature required is specific to the primer used
 3. ***Extension***
-	- Raise the temperature to ***72 degree Celcius (optimum temperatur)***
+	- Raise the temperature to ***72 degree Celcius (optimum temperature)***
 	- ***DNA polymerase*** is used for attaching free nucleotides with complementary bases to the strands
 	- ***Primer acts as the starting point*** for DNA synthesis
 4. Amplification of DNA
@@ -87,19 +87,19 @@ GMOs are organisms with their DNA inserted with foreign gene.
 Recombinant DNA technology is most commonly used for it.
 
 Benefits:
-- GM microorganisms act as micro-factories fro producing large amount of pharmaceutical products
+- ***GM microorganisms*** act as micro-factories fro producing large amount of ***pharmaceutical products***
 - Diagnositc tests
-- Increase crop yields, with pesticide
-- Increase animal productivity and quality
-- GM crops reduce use of chemical pesticides
+- Increase ***crop yields***, with pesticide
+- Increase ***animal productivity and quality***
+- GM crops ***reduce*** use of ***chemical pesticides***
 - Forensic Science
 - Scientific studies
 
 Hazard:
-- Potential undesirable long term effect
-- Antibiotic-resistant gene may make pathogens become super bugs
-- If GMOs are released into the environment, they can upset the ecological balance, or reduce biodiversity
-- Toxin produced by GM crops may kill other benefitial organisms
+- Potential ***undesirable long term effect***
+- Antibiotic-resistant gene may make pathogens become ***super bugs***
+- If GMOs are released into the environment, they can ***upset the ecological balance, or reduce biodiversity***
+- Toxin produced by GM crops may ***kill other benefitial organisms***
 
 ## Animal Cloning
 
@@ -119,7 +119,7 @@ Limitations:
 - success rate very low
 - high cost
 - the clone has shorter lifespan
-- wastage of embryos have ethical concerns
+- wastage of ***embryos*** have ethical concerns
 - human cloning is illegal
 
 ## Plant Cloning
