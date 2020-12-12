@@ -14,7 +14,6 @@
 - [Transport in Humans](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Transport%20in%20Humans.md)
 - [Homeostasis](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Homeostasis.md)
 - [Reproduction in Humans](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Reproduction%20in%20Humans.md)
-- [Biotechnology](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Biotechnology%20and%20Modern%20Techniques.md)
 - [Biodiversity](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Biodiversity.md)
 - [Evolution](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Evolution.md)
 - [Basic Genetics](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Basic%20Genetics.md)  
@@ -24,3 +23,4 @@
 - [Regulation of Body Temperature (E1)](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Regulation%20of%20Body%20Temperature%20(E1).md)
 - [Regulation of Gas Content in Blood (E1)](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Regulation%20of%20Gas%20Content%20in%20Blood%20(E1).md)
 - [Hormonal Control of Reproduction Cycle (E1)](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Hormonal%20Control%20of%20Reproduction%20Cycle%20(E1).md)
+- [Biotechnology and Modern Techniques (E4)](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Biotechnology%20and%20Modern%20Techniques%20(E4).md)  
