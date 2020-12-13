@@ -25,3 +25,5 @@
 - [Hormonal Control of Reproduction Cycle (E1)](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Hormonal%20Control%20of%20Reproduction%20Cycle%20(E1).md)
 - [Biotechnology and Modern Techniques (E4)](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Biotechnology%20and%20Modern%20Techniques%20(E4).md)  
 - [Biotechnology in Medicine (E4)](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Biotechnology%20in%20Medicine%20(E4).md)
+- [Biotechnology in Argriculture (E4)](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Biotechnology%20in%20Argriculture%20(E4).md)
+- [Bioethics (E4)](https://github.com/LioQing/BIO-Simple-Notes/blob/master/Bioethics%20(E4).md)

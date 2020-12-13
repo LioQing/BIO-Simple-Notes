@@ -93,3 +93,8 @@ cell types formed | wide range of cell types | limited range of cell types
 grow in culture | can grow and divide in culture for more than a year without differentiation | difficult to isolate from tissue and difficult to grow in culture
 immune responses | may induce immune responses | stem cells from the patient's own cell less likely to rejected by immune system
 ethical concerns | more, embryo will be killed | less, not collected from embryo so no life is killed
+
+examples of treatments:  
+- blood cancers
+- heart disease
+- diabetes
