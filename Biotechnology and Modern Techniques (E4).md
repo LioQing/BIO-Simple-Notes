@@ -15,6 +15,25 @@ Process:
 7. The transformed bacteria are ***selected*** by spreadig the bacteria on sterile nutrient agar plate that contains antibiotic
 8. The transformed bacteria are removed to culture in large scale in the sterile nutrient solution of a fermenter
 
+## Application
+- medical use
+	- pharmaceutical products
+		- vaccines (treated pathogens)
+		- insulin (to cure diabetes mellitus)
+	- gene therapy
+- agriculture & food
+	- genetically modified organisms (GMO)
+		- BT bacterium
+	- genetically modified food (GM food)
+		- golden rice (more vitamin A)
+		- tomato
+		- GM salmon
+- industrial application
+	- GM microorganisms to produce enzymes
+- environmental protection
+	- wastes can be broken down by GM plants
+	- clean up oil spill with GM bacteria
+
 ## Polymerase Chain Reaction (PRC)
 used to produce numerous copies of a selected DNA segment by DNA polymerase  
 
