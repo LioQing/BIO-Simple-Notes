@@ -2,6 +2,22 @@
 Genome definition: the ***complete DNA sequence*** on a haploid set of chromosome  
 Mapping definition: the ***identification and locating*** of genetic sequences
 
+benefits & applications:  
+- for studying and understanding of genes
+- improve medical field
+- new ways to tackle environmental problems
+- forensics science
+- agriculture & livestock breeding
+- for studying and understanding evolution
+
+limitations:  
+- many gene functions are still unknown
+- ethical, legal, social issues:  
+	- ownership (who can use)
+	- privacy (who can access)
+	- psychological impact (non-treatable genetic disorders may cause anxiety)
+	- public perception (discrimination)
+
 ## Recombinant DNA Technology  
 is the process of isolating a DNA fragment from a donor cell and inserting it into the DNA of another cell  
 
