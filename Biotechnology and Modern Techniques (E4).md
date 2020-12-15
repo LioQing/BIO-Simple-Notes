@@ -31,7 +31,7 @@ Process:
 7. The transformed bacteria are ***selected*** by spreadig the bacteria on sterile nutrient agar plate that contains antibiotic
 8. The transformed bacteria are removed to culture in large scale in the sterile nutrient solution of a fermenter
 
-## Application
+### Application
 - medical use
 	- pharmaceutical products
 		- vaccines (treated pathogens)
