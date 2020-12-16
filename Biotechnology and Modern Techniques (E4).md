@@ -1,3 +1,34 @@
+## Traditional & Modern Biotechnology
+
+### Traditional Biotechnology
+did not have full scientific knowledge  
+=> use natural biological processes to  
+- improve quality of crops and animals
+- find new ways of producing foods
+- examples
+	- beer
+	- wine
+	- bread
+	- cheese
+	- yoghurt
+	- soy sauce
+
+### Modern Biotechnology
+techniques used:  
+- enzyme technology
+- fermentation technology
+- recombinant DNA technology
+- polymerase chain reaction (PCR)
+- cloning
+
+applications:
+- medicine
+- argriculture
+- environmental protection
+- industry
+- forensic science
+- cloning
+
 ## Human Genome Project (HGP)
 Genome definition: the ***complete DNA sequence*** on a haploid set of chromosome  
 Mapping definition: the ***identification and locating*** of genetic sequences
@@ -23,12 +54,12 @@ is the process of isolating a DNA fragment from a donor cell and inserting it in
 
 Process:  
 1. Isolating the ***DNA segment containing the gene of interest*** and amplify it by PCR
-2. Add a ***restriction enzyme*** acting as a pair of molecular scissors to cut the gene of interest
+2. Add a ***restriction enzyme*** to cut the gene of interest
 3. Isolate a plasmid with the antibiotic resistance gene as selectable marker from a bacterial cell
 4. Add the same ***restriction enzyme*** to ***cut open the circular plasmid***
 5. The 'sticky ends' of the gene of interest and the open plasmid are ***complementary***, they join together by adding the enzyme ***DNA ligase*** to form a ***recombinant plasmid***
 6. Plasmid acts as the ***vector*** to introduce the recominant DNA into a host cell, forming a recombinant bacterium, they are said to be transformed
-7. The transformed bacteria are ***selected*** by spreadig the bacteria on sterile nutrient agar plate that contains antibiotic
+7. The transformed bacteria are ***selected*** by spreadig the bacteria on sterile nutrient agar plate that contains antibiotic so only transformed bacteria sruvive
 8. The transformed bacteria are removed to culture in large scale in the sterile nutrient solution of a fermenter
 
 ### Application
@@ -100,7 +131,7 @@ Principle:
 1. ***Extracting DNA*** from sample
 2. Preparing restriction DNA fragments, with ***restriction enzyme***
 3. Separating DNA fragments by ***gel electrophoresis***
-	- with ***electric field***, shorter DNA move further away from well to the ***positive pole***
+	- with ***electric field***, shorter DNA move faster hence further away from well to the ***positive pole***
 	- different size DNA fragments are separated into different bands due to ***length difference***
 4. Blotting 
 	- using nylon membrane
