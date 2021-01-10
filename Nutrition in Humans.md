@@ -54,3 +54,12 @@ functions:
 - make food more bulky
 - stimulate peristalsis
 - deficiency causes egestion very difficult
+
+## Factors of Energy Need
+- age
+- sex
+- pregnancy
+- activities
+
+## Health Problems from Improper Diet
+- under-nutrition
