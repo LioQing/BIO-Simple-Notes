@@ -126,7 +126,7 @@ liver | bile (stored in gall bladder) | duodenum
 pancreas | pancreatic juice | duodenum
 intestinal glands (in intestinal wall) | intestinal juice | small intestine
 
-### Ingestion
+## Ingestion
 
 **tooth**
 <img src="https://github.com/LioQing/BIO-Simple-Notes/blob/master/images/nutrition%20in%20humans%20-%20tooth.png">  
@@ -183,3 +183,212 @@ adult:
 
 child:  
 ![formula](https://render.githubusercontent.com/render/math?math=\LARGE\frac{2102}{2102})
+
+## Digestion
+
+**physical digestion**  
+def: the process of breaking down food into smaller pieces by physcial actions  
+aim: increases S.A. of food to be acted by digestive enzymes  
+
+action | site of digestion
+--- | ---
+chewing/masticatio | by teeth in mouth cavity
+churning | stomach
+peristalsis/mechanical digestion | along alimentary canal
+emulsification of lipids | small intestine
+
+*emulsification*  
+def: bil salts emulsify lipids into small lipid droplets  
+
+**chemical digestion**  
+def: the chemical hydrolysis of *big, complex, insoluble* into *simple, soluble, diffusible* molecules by digestive enzyme  
+aim: enhance the absorption of digested food molecules
+
+3 types of digestive enzymes for 3 group of complex biomolecules
+types of enzymes | hydrolysis of complex biomolecules | example
+--- | --- | ---
+carbohydrases | complex carbohydrates -> simple sugar | amylase
+proteases | proteins -> polypeptides, peptides, amino acids | pepsin
+lipases | lipids -> fatty acids, glycerol | pancreatic lipase
+
+### Digestion in Mouth Cavity
+- physical digestion
+	- chewing/mastication
+		- increase S.A. for digestive enzymes
+		- enhances swallowing
+- chemical digestion - **saliva**
+	- secreted by salivary glands
+	- salivary amylase
+		- starch -> maltose
+	- mucus
+		- moistens & lubricates food -> easy to swallow and chew
+	- water
+		- moistens food
+		- dissolves soluble substances in food
+
+### Pharynx and Swallowing
+1. tongue pushes the bolus to the back of mouth cavity
+2. soft palate raised to prevent food from passing up to naval cavity
+3. larynx rises to make epiglottis covers entrance of trachea to prevent food from passing into it
+4. food enters oesophagus
+
+### Paristalsis
+
+action:
+- part behind the food
+	1. circular muscles contract & longitudinal muscles relax
+	2. constrict the lumen to squeeze food forwards
+- part in front of the food
+	1. circular muscles relax & longitudinal muscles contract
+	2. enlarge the lumen for food to pass through
+- the rhythmic contraction and relaxation produce the action of paristalsis
+
+functions:
+- moves food along alimentary canal
+- churns food into smaller pieces
+- mixes food with digestive juices to faciliate digestion
+- increases the contact between wall of alimentary canal and digestive products to enhance absorption
+
+### Digestion in Stomach
+- mascular rings
+	- cardiac sphincter
+		- controls entry of food into stomach
+		- prevent passing back food to oesophagus
+	- pyloric sphincter
+		- control release of chyme into duodenum
+- physical digestion - **peristalsis**  
+	- churning
+		- increase S.A. for digestive enzymes
+	- mixes food with gastric juice
+		- promote contact of food with digestive enzymes
+- chemical digestion
+	- hydrochloric acid
+		- provide acidic medium for enzymes to work
+		- kills most bacteria in the food
+	- proteases - pepsin
+		- proteins -> peptides
+	- mucus
+		- protects stomach wall from digestive action of proteases and eroding action of hydrochloric acid
+		- lubricates surface of stomach to reduce physcial damage from churning
+
+## Digestion in Small Intestine
+- features
+	- long coiled tube
+		- provide large S.A. for digestion & absorption
+	- divided into 2 parts
+		- duodenum
+		- ileum
+	- the digested semi-liquid food is chyle
+- bile
+	- production and secretion
+		- produced in liver
+		- stored temporarily in gall bladder
+		- released through bile duct into duodenum
+	- functions
+		- bile salts
+			- emulsify lipids into small lipid droplets
+			- increases S.A. of lipds for lipase to act on
+		- sodium hydrogencarbonate
+			- alkaline to neutralize the acidic chyme
+			- provide alkaline medium for enzyems to work
+			- reduce eroding action of acid in gastric juice
+- pancreatic juice
+	- production and secretion
+		- produced and secreted by pancreas
+		- released through pancreatic duct into duodenum
+	- digestive enzymes
+		- pancreatic amylase
+			- starch -> maltose
+		- lipase
+			- lipids -> fatty acids + glycerol
+		- protease
+			- protein -> peptides -> amino acids
+	- sodium hydrogencarbonate
+		- alkaline to neutralize the acidic chyme
+		- provide alkaline medium for enzyems to work
+- intestinal juice
+	- production and secretion
+		- produced and secreted by intestinal glands in intestinal wall
+	- digestive enzymes
+		- carbohydrases
+			- disaccharides (double sugars) -> monosaccharides (simple sugars)
+			- maltose --maltase-> glucose
+			- sucrose --sucrase-> glucose + fructose
+		- proteases
+			- peptides -> amino acids
+	- sodium hydrogencarbonate
+		- alkaline to neutralize the acidic chyme
+		- provide alkaline medium for enzyems to work
+
+### Summary of Digestion of Carbohydrates, Lipids, and Proteins
+1. mouth cavity (pH: slightly alkaline)
+	- **carbohydrates**
+		- **salivary amylase** in saliva from salivary glands
+			- starch -> maltose
+2. stomach (pH: strongly acidic)
+	- **proteins**
+		- **pepsin** in gastric juice from gastric glands
+			- protein -> peptides
+3. small intestine (pH: alkaline)
+	- **carbohydrates**
+		- **amylase** in pancreatic juice from pancreas
+			- remaining starch -> maltose
+		- **maltase** in intestinal juice from intestinal glands
+			- maltose -> glucose
+		- **sucrase** in intestinal juice from intestinal glands
+			- sucrose -> glucose + fructose
+	- **lipids**
+		- **bile salt** in bile from liver (physical)
+			- lipids -> small lipid droplets
+			- **emulsification**
+		- **lipase** in pancreatic juice from pancreas
+			- lipids & small lipid droplets -> fatty acids + glycerol
+	- **proteins**
+		- **protease** in pancreatic juice from pancreas
+			- protein -> peptides
+		- **protease** in intestinal juice from intestinal glands
+			- peptides -> amino acids
+
+## Absorption
+<img src="https://www.open.edu/openlearn/ocw/pluginfile.php/840359/mod_oucontent/oucontent/42714/91a7863d/61717acd/ou_futurelearn_histopathology_fig_1021.jpg">  
+
+image from: https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=65376&extra=thumbnailfigure_idm45996997311328
+
+adaptive features of small intestine:  
+- small intestine is very long
+	- sufficient time for complete digestion & absorption
+- folding of inner layer and many villi
+	- increase S.A. for abosrption
+- peristalsis
+	- move villi about to increase contact with newly digested food
+
+adaptive features of villi:
+- finger-like shape
+	- increase S.A. for absorption
+- microvilli
+	- increase S.A. for absorption
+- very thin epithelium (one-cell thick)
+	- shorten distance to facilitate diffusion of food into blood vessels
+- large number of mithochondria in epithelial cells of villus
+	- supply large amount of energy for active transport of digested products
+- network of blood capillaries enclosing a lacteal
+	- rapidly transport away food molecules -> maintain steep concentration gradient -> increase rate of diffusion of food molecules
+
+<img src="https://github.com/LioQing/BIO-Simple-Notes/blob/master/images/nutrition%20in%20humans%20-%20absorption%20and%20transport.png">  
+
+absorption and transport of substances: 
+- monosaccharides, amino acids, minerals, water-soluble vitamins (B & C)
+	1. pass into blood capillaries by diffusion & active transport
+	2. carried in the hepatic portal vein to liver
+	3. liver transport these nutrients through hepatic vein and vena cava to heart
+	4. heart pumps these nutrients to other parts of body
+- water
+	1. absorption of digested food decrease ψ of blood capillaries
+	2. water absorbed into blood capillaries by osmosis
+- glycerol, fatty acids, lipid-soluble vitamins (A & D)
+	1. glycerol & fatty acids diffuse into epithelium
+	2. glycerol & fatty acids recombine into small lipid droplets
+	3. glycerol & fatty acids enters lacteals
+	4. lipid-soluble vitamins (A & D) absorbed into lacteals by diffusion & active transport
+	5. the nutrients enters vena cava to heart
+	6. heart pumps the nutrients to other parts of body
