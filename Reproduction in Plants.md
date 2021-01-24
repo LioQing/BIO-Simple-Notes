@@ -1,0 +1,34 @@
+## Types of Vegetative Propagation
+- rhyzomes
+	- properties
+		- grow horizontally
+	- examples
+		- ginger
+		- lotus
+		- iris
+		- water lily
+		- grasses
+- stem tubers
+	- properties
+		- swollen ends of lateral stems
+	- examples
+		- potato
+		- artichokes
+		- arrow head
+- bulbs
+	- properties
+		- condensed stems 
+		- overlapping fleshy scale leaves
+	- examples
+		- onion
+		- garlic
+		- daffodil
+		- tulip
+- corms
+	- properties
+		- short
+		- vertical
+	- examples
+		- crocus
+		- gladiolus
+		- water chestnut
