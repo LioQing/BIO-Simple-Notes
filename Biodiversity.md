@@ -68,9 +68,9 @@ Special Characteristics:
 E.g. Yeast, Bread moulds, Mushrooms  
 
 Special Characteristics:
-- Most made of hyphae
+- Most made of hyphae (yeast does not)
 - Sprophytic or Parasitic
-- Multi-cellular
+- Multi-cellular or Unicellular (yeast, and some others)
 
 **Plantae**  
 Special Characteristics:  
@@ -135,6 +135,6 @@ Control of body temperature:
 	- Fish
 	- Amphibians
 	- Reptiles
-- Homotherms (warm-blooded)
+- Homoiotherms (warm-blooded)
 	- Birds
 	- Mammals

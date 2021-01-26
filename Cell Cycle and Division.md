@@ -49,6 +49,14 @@ Types of nuclear division:
     - epithelial cells of the small intestine
     - cells in the root tips and shoot tips
 
+## Cell Division
+Stages:
+1. Interphase
+2. Division of nucleus
+	- Mitosis in mitotic cell division
+	- Meiosis in meiotic cell division
+3. Cytoplasmic division
+
 ## Interphase
 is the perioud between 2 successive cell divisions
 
@@ -58,7 +66,7 @@ is the perioud between 2 successive cell divisions
     - active synthesis of proteins and organelles
     - replication of DNA
 
-## Mitosis (Mitotic Cell Division)
+## Mitosis
 produces 2 daughter nuclei containing chromosome sets identical to the parent cell
 
 Stages:
@@ -86,7 +94,7 @@ Importance:
     - vegetative propagation
     - cloning
 
-## Meiosis (Meitic Cell Division)
+## Meiosis
 take place in gamete-producing cells  
 produces 4 haploid nuclei  
 aka reduction division
