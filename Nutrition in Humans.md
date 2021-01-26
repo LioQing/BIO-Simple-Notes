@@ -374,7 +374,7 @@ adaptive features of villi:
 - network of blood capillaries enclosing a lacteal
 	- rapidly transport away food molecules -> maintain steep concentration gradient -> increase rate of diffusion of food molecules
 
-<img src="https://github.com/LioQing/BIO-Simple-Notes/blob/master/images/nutrition%20in%20humans%20-%20absorption%20and%20transport.png">  
+<img src="images/nutrition in humans - absorption and transport.png">  
 
 absorption and transport of substances: 
 - monosaccharides, amino acids, minerals, water-soluble vitamins (B & C)

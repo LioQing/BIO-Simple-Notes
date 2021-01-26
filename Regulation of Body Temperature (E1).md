@@ -16,7 +16,7 @@ heat gain and heat loss:
 
 ## Structure and Function of Skin
 
-<img src="https://github.com/LioQing/BIO-Simple-Notes/blob/master/images/temp%20regulation%20-%20skin.png">
+<img src="images/temp%20regulation%20-%20skin.png">
 
 structure  
 - epidermis
