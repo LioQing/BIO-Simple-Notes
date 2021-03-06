@@ -349,6 +349,14 @@ functions:
 		- **protease** in intestinal juice from intestinal glands
 			- peptides -> amino acids
 
+table of digestive juice
+digestive juice | digestive enzymes | food substances | pH
+--- | --- | --- | ---
+salivary amylase | amylase | carbohydrates | slightly alkaline (~6.5) / depends on food
+gastric juice | pepsin | proteins | stronly acidic (~2)
+pancreatic juice | amylase, lipase, protease | carbohydrates, lipids, proteins | alkaline (~8)
+intestinal juice | maltase & sucrase, protease | lipids, proteins | alkaline (~8)
+
 ## Absorption
 <img src="https://www.open.edu/openlearn/ocw/pluginfile.php/840359/mod_oucontent/oucontent/42714/91a7863d/61717acd/ou_futurelearn_histopathology_fig_1021.jpg">  
 

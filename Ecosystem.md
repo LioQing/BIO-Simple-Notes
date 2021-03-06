@@ -66,7 +66,10 @@ commensalism | + | 0 | A live near/on/in B to get resources but does not harm B 
 mutualism | + | + | A & B benefit each other when near/together
 parasitism | + | - | A lives in/on B and gets nutrients from B
 
-ecological succession: 
+**ecological succession**: 
+- general pattern
+	- earlier plants enrich, thicken, increase fertility of soil
+	- later plants over-shaddow & eliminate earlier plants to become dominant plant
 - primary succession
 	- occurs on previously lifeless, uncolonized place
 	- the land is lack of soil and vegetation
@@ -78,11 +81,26 @@ ecological succession:
 	- seeds, roots, underground vegetative organs of plant may still survive in soil
 	- shorter time to reach climax community
 
-stages of primary succession:
+stages of **primary succession**:
 1. lichens community (pioneer community)
 	- acid secreted of lichens and fungal hyphae of lichens split rocks into soil particles
 	- dead lichens enrich organic content of soil
 2. mosses, ferns, grasses communities
+	- provide food & shelters for small insects and spiders
 3. herbs community
+	- provide food & shelters for more animals
 4. shrubs community
+	- larger animals move in
 5. trees community (climax community)
+	- form woodlands
+	- maybe replaced by other plant community & continue to be climax community
+
+**energy**:
+- transfer of energy
+	- light energy from sun
+	- chemical energy in organic molecules from animals feeding on plants
+	- chemical energy in organic molecules from animals feeding on other animals
+- loss of energy
+	- respiration
+	- uneaten organism & body parts
+	- egestion & excretion
