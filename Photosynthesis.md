@@ -38,6 +38,7 @@ Waxy cuticle | reduces water loss from the large leaf surface
 carbon dioxide + water 	===light==in chloroplast===>	sugars + oxygen + water  
 
 ## Photochemical Reaction  
+occurs in the thylakoid membrane  
 
 **Phosphorylation**  
 to produce ATP
@@ -54,6 +55,7 @@ ADP + P ===energy===> ATP
 3. **O is released as a by-product** into the atmosphere
 
 ## Calvin Cycle  
+occurs in the stroma  
 
 <img src="https://cdn.kastatic.org/ka-perseus-images/4c9fbc7e4f158fd4bf3e1114e9a7ebe47d08f020.png" height="300">
 
