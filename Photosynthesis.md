@@ -55,7 +55,7 @@ ADP + P ===energy===> ATP
 
 ## Calvin Cycle  
 
-<img src="https://cdn.kastatic.org/googleusercontent/iuaCnFSly-lhqgI84je2RRUZZDuZGBjVSw-ptxjHmqH53bG0oIus08dfGHJWCShNbn5ZwReBSsvCazRtnBB62X8" height="300">
+<img src="https://cdn.kastatic.org/ka-perseus-images/4c9fbc7e4f158fd4bf3e1114e9a7ebe47d08f020.png" height="300">
 
 from: https://www.khanacademy.org/science/ap-biology/cellular-energetics/photosynthesis/a/calvin-cycle
 
