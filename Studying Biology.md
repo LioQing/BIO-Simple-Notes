@@ -31,3 +31,11 @@
 - Movement
 - Growth
 - Reproduction
+
+## Nature of Science
+- Science is based on evidences and observations of the natural world
+- Science knowledge is tentative and subject to change
+- Doing science require creativity and imagination
+- Intepretation of observation is guided by out prior understanding of other theories and concepts
+- Science is a process of ongoing inquiries
+
