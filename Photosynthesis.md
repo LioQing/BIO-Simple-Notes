@@ -12,6 +12,9 @@ Extensive network of bein system | Xylem transports water and mineral salts to t
 Waxy cuticle | reduces water loss from the large leaf surface
 
 ## Chloroplast
+
+<img src="images/photosynthesis%20-%20chloroplast.png">
+
 - Double membrane
 	- Inner membrane
 		- extends inward to form thylakoid
