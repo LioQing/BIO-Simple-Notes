@@ -7,6 +7,8 @@ Nucleic acid:
 long chain of nucleotides, each consist of a phosphate group, 5-carbon sugar, nitrogenous base  
 it forms a polynucleotide
 
+<img src="images/basic%20genetics%20-%20nucleotide.png">  
+
 <empty/> | DNA | RNA
 --- | --- | ---
 Type of sugar | Deoxyribose | Ribose
