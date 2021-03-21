@@ -19,6 +19,10 @@ types of diseases:
 - non-infectious disease
 
 ## Pathogens
+<img src="https://cdn2.hubspot.net/hubfs/5066031/Virus%20Structure.jpg">  
+<img src="https://cdn2.hubspot.net/hubfs/5066031/Bacteria%20Structure.jpg">
+images from: https://www.sanitized.com/zh/viruses-and-bacteria-a-brief-explanation-of-the-differences/
+
 - viruses
 	- structure
 		- **protein coat**
