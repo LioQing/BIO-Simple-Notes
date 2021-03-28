@@ -80,3 +80,32 @@ types:
 - self-pollination
 - cross-pollination
 
+<empty/> | self-pollination | cross-pollination
+--- | --- | ---
+genetic variation | less, less adaptable to env. change | greater, adapt better to env. change 
+species strength | weakened, less seeds and vigorous | strong, more seeds
+dependent on external agent | no, high fertilization chance | yes, insecure
+wastage of pollen grains | less | high
+
+vectors of pollination:  
+- insect / animal
+- wind
+- water
+
+## Fertilization
+
+steps:
+1. stigma stimulates the pollen grain to germinate a pollen tube
+2. the pollen tube secretes enzymes to digest tissues of the style and grow towards the ovule
+3. pollen tube carries the male gametes towards the ovule
+4. male gametes are released through the micropyle of ovule to fuse with the ovum
+6. a zygote is formed
+
+## Counterparts of Flower in Fruit
+
+style and receptacle -> scars  
+ovary -> fruit  
+ovary wall -> fruit wall  
+ovule -> seed  
+integument -> seed coat
+ovum -> embryo  
