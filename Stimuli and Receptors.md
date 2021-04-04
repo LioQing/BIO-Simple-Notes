@@ -156,17 +156,17 @@ image from: me (beautiful isn't it?)
 	- contains sensory hair cells to detect pressure changes
 
 **mechanism of hearing**:  
-- outer ear
-	1. pinna collects sound waves and auditory canal directs the waves to the eardrum
-	2. sound waves cause eardrum to vibrate
-- middle ear
-	3. ear bones amplify and transmit the vibration from eardrum to the oval window
-- inner ear
-	4. oval window vibrates, making the perilymph in the upper canal of cochlea to vibrate
-	5. vibrations in the perilymph are transmitted to the endolymph of the central canal
-	6. the hairs of sensory hair cells in the central canal bent by the vibrations, they are stimulated and send out electrical signal
-	7. nerve impulses travel along the auditory nerve to the auditory centre to produce sensation of hearing
-	8. vibrations in perilymph are transmitted to round window, and it bulges outwards into the middle ear to release the fluid pressure
+- outer ear:  
+	- pinna collects sound waves and auditory canal directs the waves to the eardrum
+	- sound waves cause eardrum to vibrate
+- middle ear:  
+	- ear bones amplify and transmit the vibration from eardrum to the oval window
+- inner ear:  
+	- oval window vibrates, making the perilymph in the upper canal of cochlea to vibrate
+	- vibrations in the perilymph are transmitted to the endolymph of the central canal
+	- the hairs of sensory hair cells in the central canal bent by the vibrations, they are stimulated and send out electrical signal
+	- nerve impulses travel along the auditory nerve to the auditory centre to produce sensation of hearing
+	- vibrations in perilymph are transmitted to round window, and it bulges outwards into the middle ear to release the fluid pressure
 
 ## Tropism
 def: the directional growth movement of a plant organ in response to a unilateral stimulus
@@ -221,11 +221,11 @@ stimulates:
 1. auxins are produced at the tips of shoots/roots
 2. auxins move away from light
 3. higher conc. is found on the shaded side of shoot
-- on shoots
-	4. higher conc. stimulates growth on shaded side
-	5. shaded side grow faster
-	6. bend towards light
-- on roots
-	4. higher conc. inhibits growth on shaded side of root
-	5. shaded side grow slower
-	6. bends away from light
+4. on shoots
+	- higher conc. stimulates growth on shaded side
+	- shaded side grow faster
+	- bend towards light
+5. on roots
+	- higher conc. inhibits growth on shaded side of root
+	- shaded side grow slower
+	- bends away from light
